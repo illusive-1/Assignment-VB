@@ -1,0 +1,31 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+## Build Folders
+bin/
+obj/
+*/bin/
+*/obj/
+
+## Rider
+.idea/
+
+## Visual Studio Code
+.vscode/
+
+## NuGet
+*.nupkg
+packages/
+project.lock.json
+
+## Others
+*.log
+*.tmp
+*.cache
+*.DS_Store
